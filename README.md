@@ -5,5 +5,6 @@ This repository contains the Python implementation of the mathematical model pre
 The model uses a system of 8 nonlinear ordinary differential equations (ODEs) to simulate the spatial-sequence dynamics of amino acid groups along the Titin protein sequence.
 # Key Results:
 R² = 0.93 (Coefficient of Determination)
+&
 RMSE = 0.0185 (Root Mean Square Error)
 ->> Strong agreement between model predictions and real UniProt data (UniPort ID:Q8WZ42)
